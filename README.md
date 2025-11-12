@@ -1,6 +1,6 @@
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Learning Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=swift,js,ts,react,html,css,python,cpp" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=swift,supabase,js,ts,react,html,css,python,cpp" />
 <br>
 
 ## 🏃‍♀️ Activities
