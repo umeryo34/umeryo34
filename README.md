@@ -3,12 +3,7 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=swift,supabase,js,ts,react,html,css,python,cpp" />
 <br>
 
-## 🏃‍♀️ Activities
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=umeryo34&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umeryo34&theme=vue-dark&layout=compact" />
-</div>
-<br>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=umeryo34&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
 
