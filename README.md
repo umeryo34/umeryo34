@@ -3,10 +3,6 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=swift,supabase,js,ts,react,html,css,python,cpp" />
 <br>
 
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=umeryo34&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
-
 - 👋 Hi, I’m @umeryo34
 - 👀 I’m interested in Swift
 - 🌱 I’m currently learning Swift
